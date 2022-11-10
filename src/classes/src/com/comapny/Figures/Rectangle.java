@@ -4,7 +4,7 @@ public class Rectangle extends Figure {
     private double a;
     private double b;//длинны сторон
 
-    
+
     public double area() {
         return a*b;
     }

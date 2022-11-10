@@ -1,4 +1,4 @@
-package others;
+package com.comapny.Figures.others;
 
 import com.comapny.Figures.Circle;
 import com.comapny.Figures.Rectangle;
